@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-shadow: #000 1px 1px;
+
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("assets/macos-catalina-mountains-island-night-stock-5k-6016x6016-189.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+}
